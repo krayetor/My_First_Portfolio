@@ -1,0 +1,4 @@
+# Folders and files to ignore
+node_modules
+.DS_Store
+*.log

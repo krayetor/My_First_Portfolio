@@ -1,0 +1,15 @@
+{
+  "name": "@krayetor/project-maker-cli",
+  "version": "1.0.1",
+  "description": "A CLI to create a new web projects",
+  "main": "index.js",
+  "bin": {
+    "create-project": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
